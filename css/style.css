@@ -1,0 +1,32 @@
+#wstep {
+    color: red;
+}
+
+#tresc {
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid blue;
+}
+
+.akapit {
+    background-color: yellow;
+}
+
+.container {
+    background-color: blue;
+}
+
+.additionals {
+    border-color:  black;
+    border-style: solid;
+    border-width: 0 10px 10px 0;
+}
+
+h1, h3 {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
